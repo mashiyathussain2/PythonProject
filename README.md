@@ -1,2 +1,2 @@
 # PythonProject
-The collection of Python Project from basic to advance
+The collection of Python Project from basic to advance.
