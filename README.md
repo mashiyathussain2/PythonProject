@@ -10,7 +10,7 @@ A collection of **Python Project** from **_Basics to Advance_**. You can find or
 >### Steps required to follow before adding any project
 
 - Make a separate folder for your project( if your folder consist of any installation or any library).
-- There shouldn't be any spaces between the names of the script. (Use underscore)
+- There shouldn't be any spaces between the names of the project. (Use underscore)
     - :x: Project Name
     - :heavy_check_mark: Project_Name
 - Make a README.md of your folder and mention the all the requirements(e.g library) for your project and source artcile(if any).
