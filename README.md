@@ -15,6 +15,13 @@ A collection of **_Python Project_** from **_Basics to Advance_**. You can find 
     - :heavy_check_mark: Project_Name
 - Make a README.md of your folder and mention the all the requirements (e.g library, scripts) for your project and source artcile(if any).
 
+## 📝&nbsp; Learning Resources
+
+Read these articles to get a quick grab on Python:
+- https://www.python.org/about/gettingstarted/
+- https://www.learnpython.org
+- https://www.programiz.com/python-programming
+
 ## If you like the project:
 - Star the repo - [PythonProject](https://github.com/mashiyathussain2/PythonProject)
 - Follow me on Github - [Mashiyat Hussain](https://github.com/mashiyathussain2)
