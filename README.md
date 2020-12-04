@@ -26,5 +26,9 @@ Read these articles to get a quick grab on Python:
 - Star the repo - [PythonProject](https://github.com/mashiyathussain2/PythonProject)
 - Follow me on Github - [Mashiyat Hussain](https://github.com/mashiyathussain2)
 
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/mashiyathussain2)
+
 ## Any feedback or suggestion:
 - Mail @[mashiyathussain2@gmail.com](mailto:mashiyathussain2@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+## ❤️ Thanks to our awesome contributors.
