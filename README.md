@@ -1,6 +1,6 @@
-# PythonProject
+# **PythonProject**✨
 
-The collection of Python Project from basic to advance.
+### The collection of Python Project from basic to advance.
 
 ## Introduction
 A collection of **_Python Project_** from **_Basics to Advance_**. You can find or add any new project.
@@ -22,7 +22,7 @@ Read these articles to get a quick grab on Python:
 - https://www.learnpython.org
 - https://www.programiz.com/python-programming
 
-## If you like the project:
+## If you like the project⭐:
 - Star the repo - [PythonProject](https://github.com/mashiyathussain2/PythonProject)
 - Follow me on Github - [Mashiyat Hussain](https://github.com/mashiyathussain2)
 
