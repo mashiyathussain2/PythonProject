@@ -23,8 +23,8 @@ Read these articles to get a quick grab on Python:
 - https://www.programiz.com/python-programming
 
 Youtube Video:
--https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
--https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j (In Hindi)
+- https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
+- https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j (In Hindi)
 
 ## If you like the project⭐:
 - Star the repo - [PythonProject](https://github.com/mashiyathussain2/PythonProject)
