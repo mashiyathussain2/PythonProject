@@ -17,12 +17,12 @@ A collection of **_Python Project_** from **_Basics to Advance_**. You can find 
 
 ## 📝&nbsp; Learning Resources
 
-Read these articles to get a quick grab on Python:
+**Read these articles to get a quick grab on Python:**
 - https://www.python.org/about/gettingstarted/
 - https://www.learnpython.org
 - https://www.programiz.com/python-programming
 
-Youtube Video:
+**Youtube Video:**
 - https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
 - https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j (In Hindi)
 
