@@ -2,7 +2,7 @@
 
 ### The collection of Python Project from basic to advance.
 
-## Introduction
+## **Introduction**
 A collection of **_Python Project_** from **_Basics to Advance_**. You can find or add any new project.
 
 ## Contribution Guidelines :
