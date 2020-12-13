@@ -27,7 +27,7 @@ A collection of **_Python Project_** from **_Basics to Advance_**. You can find 
 - https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j (In Hindi)
 
 **Youtube Channel for Machine Learning:**
-- [Data School](https://www.youtube.com/user/dataschool)]
+- [Data School](https://www.youtube.com/user/dataschool)
 - [DeepLearning.TV](https://www.youtube.com/c/DeepLearningTV/featured)
 - [codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ)
 
